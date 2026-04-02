@@ -297,6 +297,16 @@
         <DCCReference Include="src\utils\uLoading.pas"/>
         <DCCReference Include="src\utils\uCombobox.pas"/>
         <DCCReference Include="src\utils\uNotificacao.pas"/>
+        <DCCReference Include="src\model\dao\uDM.pas">
+            <Form>DM</Form>
+            <FormType>dfm</FormType>
+            <DesignClass>TDataModule</DesignClass>
+        </DCCReference>
+        <DCCReference Include="src\model\entity\model.configuracao.pas"/>
+        <DCCReference Include="src\model\entity\model.setor.pas"/>
+        <DCCReference Include="src\model\entity\model.lista.pas"/>
+        <DCCReference Include="src\model\entity\model.contagem_cab.pas"/>
+        <DCCReference Include="src\model\entity\model.contagem_item.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
@@ -492,6 +502,34 @@
                 <DeployFile LocalName="bin\Win32\Debug\ScannerCodeAmura.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>ScannerCodeAmura.exe</RemoteName>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="db\db.sqlite" Configuration="Debug" Class="File">
+                    <Platform Name="Android64">
+                        <RemoteDir>.\assets\internal\</RemoteDir>
+                        <RemoteName>db.sqlite</RemoteName>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="db\db.sqlite" Configuration="Debug" Class="File">
+                    <Platform Name="iOSDevice64">
+                        <RemoteDir>StartUp\Documents\</RemoteDir>
+                        <RemoteName>db.sqlite</RemoteName>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="db\db.sqlite" Configuration="Release" Class="File">
+                    <Platform Name="Android64">
+                        <RemoteDir>.\assets\internal\</RemoteDir>
+                        <RemoteName>db.sqlite</RemoteName>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="db\db.sqlite" Configuration="Release" Class="File">
+                    <Platform Name="iOSDevice64">
+                        <RemoteDir>StartUp\Documents\</RemoteDir>
+                        <RemoteName>db.sqlite</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
