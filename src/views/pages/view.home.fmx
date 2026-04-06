@@ -152,6 +152,7 @@ object fHome: TfHome
             TabOrder = 3
             object skvgScanner: TSkSvg
               Align = MostLeft
+              Margins.Right = 3.000000000000000000
               Svg.OverrideColor = xFF600863
               Svg.Source = 
                 '<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo' +
@@ -174,16 +175,19 @@ object fHome: TfHome
               Margins.Top = 3.000000000000000000
               Margins.Right = 3.000000000000000000
               Margins.Bottom = 3.000000000000000000
-              Size.Width = 250.000000000000000000
+              Size.Width = 247.000000000000000000
               Size.Height = 44.000000000000000000
               Size.PlatformDefault = False
               Stroke.Kind = None
-              XRadius = 10.000000000000000000
-              YRadius = 10.000000000000000000
+              XRadius = 6.000000000000000000
+              YRadius = 6.000000000000000000
               object sbtnResourceScanner: TSpeedButton
                 Align = Contents
                 StyledSettings = [Family]
-                Size.Width = 250.000000000000000000
+                Margins.Left = 3.000000000000000000
+                Margins.Right = 3.000000000000000000
+                Margins.Bottom = 3.000000000000000000
+                Size.Width = 241.000000000000000000
                 Size.Height = 48.000000000000000000
                 Size.PlatformDefault = False
                 Text = 'Escanear C'#243'digo'
@@ -203,6 +207,7 @@ object fHome: TfHome
             TabOrder = 2
             object svkgFolder: TSkSvg
               Align = MostLeft
+              Margins.Right = 3.000000000000000000
               Svg.OverrideColor = xFF600863
               Svg.Source = 
                 '<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo' +
@@ -235,16 +240,16 @@ object fHome: TfHome
               Margins.Top = 3.000000000000000000
               Margins.Right = 3.000000000000000000
               Margins.Bottom = 3.000000000000000000
-              Size.Width = 250.000000000000000000
+              Size.Width = 247.000000000000000000
               Size.Height = 44.000000000000000000
               Size.PlatformDefault = False
               Stroke.Kind = None
-              XRadius = 10.000000000000000000
-              YRadius = 10.000000000000000000
+              XRadius = 6.000000000000000000
+              YRadius = 6.000000000000000000
               object sbtnResourceLista: TSpeedButton
                 Align = Contents
                 StyledSettings = [Family]
-                Size.Width = 250.000000000000000000
+                Size.Width = 247.000000000000000000
                 Size.Height = 48.000000000000000000
                 Size.PlatformDefault = False
                 Text = 'Importar Lista'
@@ -264,6 +269,7 @@ object fHome: TfHome
             TabOrder = 1
             object svkgBars: TSkSvg
               Align = MostLeft
+              Margins.Right = 3.000000000000000000
               Svg.OverrideColor = xFF600863
               Svg.Source = 
                 '<?xml version="1.0" encoding="iso-8859-1"?>'#13#10'<!-- Uploaded to: S' +
@@ -289,16 +295,16 @@ object fHome: TfHome
               Margins.Top = 3.000000000000000000
               Margins.Right = 3.000000000000000000
               Margins.Bottom = 3.000000000000000000
-              Size.Width = 250.000000000000000000
+              Size.Width = 247.000000000000000000
               Size.Height = 44.000000000000000000
               Size.PlatformDefault = False
               Stroke.Kind = None
-              XRadius = 10.000000000000000000
-              YRadius = 10.000000000000000000
+              XRadius = 6.000000000000000000
+              YRadius = 6.000000000000000000
               object sbtnResourceCount: TSpeedButton
                 Align = Contents
                 StyledSettings = [Family]
-                Size.Width = 250.000000000000000000
+                Size.Width = 247.000000000000000000
                 Size.Height = 48.000000000000000000
                 Size.PlatformDefault = False
                 Text = 'Contagem'
@@ -318,6 +324,7 @@ object fHome: TfHome
             TabOrder = 0
             object SkSvg1: TSkSvg
               Align = MostLeft
+              Margins.Right = 3.000000000000000000
               Svg.OverrideColor = xFF600863
               Svg.Source = 
                 '<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo' +
@@ -384,16 +391,16 @@ object fHome: TfHome
               Margins.Top = 3.000000000000000000
               Margins.Right = 3.000000000000000000
               Margins.Bottom = 3.000000000000000000
-              Size.Width = 250.000000000000000000
+              Size.Width = 247.000000000000000000
               Size.Height = 44.000000000000000000
               Size.PlatformDefault = False
               Stroke.Kind = None
-              XRadius = 10.000000000000000000
-              YRadius = 10.000000000000000000
+              XRadius = 6.000000000000000000
+              YRadius = 6.000000000000000000
               object sbtnResourceConfig: TSpeedButton
                 Align = Contents
                 StyledSettings = [Family]
-                Size.Width = 250.000000000000000000
+                Size.Width = 247.000000000000000000
                 Size.Height = 48.000000000000000000
                 Size.PlatformDefault = False
                 Text = 'Configura'#231#227'o'

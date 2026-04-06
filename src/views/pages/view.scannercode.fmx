@@ -1,0 +1,58 @@
+object fScannerCode: TfScannerCode
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 640
+  ClientWidth = 380
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object lytScannerCode: TLayout
+    Align = Client
+    Size.Width = 380.000000000000000000
+    Size.Height = 640.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object rctBackground: TRectangle
+      Align = Client
+      Fill.Color = xFFF9FAFB
+      Size.Width = 380.000000000000000000
+      Size.Height = 640.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      object lytHeader: TLayout
+        Align = Top
+        Size.Width = 380.000000000000000000
+        Size.Height = 81.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object rctHeader: TRectangle
+          Align = Client
+          Fill.Color = xFF600863
+          Margins.Left = 3.000000000000000000
+          Margins.Top = 3.000000000000000000
+          Margins.Right = 3.000000000000000000
+          Margins.Bottom = 3.000000000000000000
+          Size.Width = 374.000000000000000000
+          Size.Height = 75.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+          object lbTitleHeader: TLabel
+            Align = Center
+            StyledSettings = [Family]
+            Size.Width = 216.000000000000000000
+            Size.Height = 17.000000000000000000
+            Size.PlatformDefault = False
+            TextSettings.Font.Size = 20.000000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+            TextSettings.FontColor = claWhite
+            TextSettings.HorzAlign = Center
+            Text = 'Scanner de Estoque'
+            TabOrder = 0
+          end
+        end
+      end
+    end
+  end
+end

@@ -13,7 +13,8 @@ uses
   model.setor in 'src\model\entity\model.setor.pas',
   model.lista in 'src\model\entity\model.lista.pas',
   model.contagem_cab in 'src\model\entity\model.contagem_cab.pas',
-  model.contagem_item in 'src\model\entity\model.contagem_item.pas';
+  model.contagem_item in 'src\model\entity\model.contagem_item.pas',
+  view.scannercode in 'src\views\pages\view.scannercode.pas' {fScannerCode};
 
 {$R *.res}
 
@@ -22,5 +23,6 @@ begin
   Application.CreateForm(TfPrincipal, fPrincipal);
   Application.CreateForm(TfHome, fHome);
   Application.CreateForm(TDM, DM);
+  Application.CreateForm(TfScannerCode, fScannerCode);
   Application.Run;
 end.
