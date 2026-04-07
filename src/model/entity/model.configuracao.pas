@@ -14,13 +14,14 @@ type
   private
     Fsetorizar: Boolean;
     Fvalidar_codigo: Boolean;
+    Fid: Integer;
 
   public
     constructor Create;
     destructor Destroy; override;
 
+    property id: Integer read Fid write Fid;
     property setorizar: Boolean read Fsetorizar write Fsetorizar;
-
     property validar_codigo: Boolean read Fvalidar_codigo write Fvalidar_codigo;
   end;
 

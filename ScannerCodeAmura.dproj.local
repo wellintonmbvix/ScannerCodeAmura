@@ -2,32 +2,32 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2026/03/26 11:31:37.000.794,=C:\Users\Wellinton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/03/26 11:36:54.000.091,C:\Users\Wellinton\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.pas</Transaction>
-    <Transaction>2026/03/26 11:36:54.000.091,C:\Users\Wellinton\Documents\Embarcadero\Studio\Projects\Unit1.fmx=F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.fmx</Transaction>
-    <Transaction>2026/03/26 11:37:19.000.466,C:\Users\Wellinton\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\estudos\Delphi\amura_app-collector\AmuraCollector.dproj</Transaction>
+    <Transaction>2026/03/26 11:36:54.000.091,F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.fmx=C:\Users\Wellinton\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2026/03/26 11:36:54.000.091,F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.pas=C:\Users\Wellinton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/03/26 11:37:19.000.466,F:\estudos\Delphi\amura_app-collector\AmuraCollector.dproj=C:\Users\Wellinton\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2026/03/26 12:24:48.000.435,=F:\estudos\Delphi\amura_app-collector\Unit1.pas</Transaction>
-    <Transaction>2026/03/26 12:25:26.000.122,F:\estudos\Delphi\amura_app-collector\Unit1.pas=F:\estudos\Delphi\amura_app-collector\src\views\uHome.pas</Transaction>
-    <Transaction>2026/03/26 12:25:26.000.122,F:\estudos\Delphi\amura_app-collector\Unit1.fmx=F:\estudos\Delphi\amura_app-collector\src\views\uHome.fmx</Transaction>
+    <Transaction>2026/03/26 12:25:26.000.122,F:\estudos\Delphi\amura_app-collector\src\views\uHome.fmx=F:\estudos\Delphi\amura_app-collector\Unit1.fmx</Transaction>
+    <Transaction>2026/03/26 12:25:26.000.122,F:\estudos\Delphi\amura_app-collector\src\views\uHome.pas=F:\estudos\Delphi\amura_app-collector\Unit1.pas</Transaction>
     <Transaction>2026/03/26 12:36:58.000.357,=F:\estudos\Delphi\amura_app-collector\Unit1.pas</Transaction>
-    <Transaction>2026/03/26 12:37:22.000.857,F:\estudos\Delphi\amura_app-collector\Unit1.pas=F:\estudos\Delphi\amura_app-collector\src\views\Routers\Views.Router.pas</Transaction>
-    <Transaction>2026/03/26 12:56:53.000.201,F:\estudos\Delphi\amura_app-collector\src\views\view.principal.pas=F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.pas</Transaction>
-    <Transaction>2026/03/26 12:56:53.000.201,F:\estudos\Delphi\amura_app-collector\src\views\view.principal.fmx=F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.fmx</Transaction>
+    <Transaction>2026/03/26 12:37:22.000.857,F:\estudos\Delphi\amura_app-collector\src\views\Routers\Views.Router.pas=F:\estudos\Delphi\amura_app-collector\Unit1.pas</Transaction>
+    <Transaction>2026/03/26 12:56:53.000.201,F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.fmx=F:\estudos\Delphi\amura_app-collector\src\views\view.principal.fmx</Transaction>
+    <Transaction>2026/03/26 12:56:53.000.201,F:\estudos\Delphi\amura_app-collector\src\views\uPrincipal.pas=F:\estudos\Delphi\amura_app-collector\src\views\view.principal.pas</Transaction>
     <Transaction>2026/03/26 12:57:26.000.482,F:\estudos\Delphi\amura_app-collector\src\views\Routers\Views.Router.pas=</Transaction>
-    <Transaction>2026/03/26 13:00:08.000.607,F:\estudos\Delphi\amura_app-collector\src\views\view.home.pas=F:\estudos\Delphi\amura_app-collector\src\views\uHome.pas</Transaction>
-    <Transaction>2026/03/26 13:00:08.000.607,F:\estudos\Delphi\amura_app-collector\src\views\view.home.fmx=F:\estudos\Delphi\amura_app-collector\src\views\uHome.fmx</Transaction>
+    <Transaction>2026/03/26 13:00:08.000.607,F:\estudos\Delphi\amura_app-collector\src\views\uHome.pas=F:\estudos\Delphi\amura_app-collector\src\views\view.home.pas</Transaction>
+    <Transaction>2026/03/26 13:00:08.000.607,F:\estudos\Delphi\amura_app-collector\src\views\uHome.fmx=F:\estudos\Delphi\amura_app-collector\src\views\view.home.fmx</Transaction>
     <Transaction>2026/03/26 13:02:14.000.623,F:\estudos\Delphi\amura_app-collector\src\views\view.home.pas=</Transaction>
     <Transaction>2026/03/26 13:02:35.000.872,=F:\estudos\Delphi\amura_app-collector\src\views\pages\view.home.pas</Transaction>
     <Transaction>2026/03/26 14:06:06.000.388,=F:\estudos\Delphi\amura_app-collector\src\utils\uLoading.pas</Transaction>
     <Transaction>2026/03/26 14:31:02.000.872,=F:\estudos\Delphi\amura_app-collector\src\utils\uCombobox.pas</Transaction>
     <Transaction>2026/03/26 15:32:41.000.747,=F:\estudos\Delphi\amura_app-collector\src\utils\uNotificacao.pas</Transaction>
     <Transaction>2026/03/26 16:50:08.000.748,=F:\estudos\Delphi\amura_app-collector\Unit1.pas</Transaction>
-    <Transaction>2026/03/26 16:50:58.000.794,F:\estudos\Delphi\amura_app-collector\src\views\frames\frame.resources.pas=F:\estudos\Delphi\amura_app-collector\Unit1.pas</Transaction>
-    <Transaction>2026/03/26 16:50:58.000.794,F:\estudos\Delphi\amura_app-collector\src\views\frames\frame.resources.fmx=F:\estudos\Delphi\amura_app-collector\Unit1.fmx</Transaction>
+    <Transaction>2026/03/26 16:50:58.000.794,F:\estudos\Delphi\amura_app-collector\Unit1.pas=F:\estudos\Delphi\amura_app-collector\src\views\frames\frame.resources.pas</Transaction>
+    <Transaction>2026/03/26 16:50:58.000.794,F:\estudos\Delphi\amura_app-collector\Unit1.fmx=F:\estudos\Delphi\amura_app-collector\src\views\frames\frame.resources.fmx</Transaction>
     <Transaction>2026/03/30 14:18:55.000.047,F:\estudos\Delphi\amura_app-collector\src\views\frames\frame.resources.pas=</Transaction>
-    <Transaction>2026/04/01 17:17:58.000.557,F:\estudos\Delphi\amura_app-collector\AmuraCollector.dproj=F:\estudos\Delphi\amura_app-collector\ScannerCodeAmura.dproj</Transaction>
+    <Transaction>2026/04/01 17:17:58.000.557,F:\estudos\Delphi\amura_app-collector\ScannerCodeAmura.dproj=F:\estudos\Delphi\amura_app-collector\AmuraCollector.dproj</Transaction>
     <Transaction>2026/04/02 13:06:38.000.805,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 13:07:03.000.518,F:\estudos\Delphi\ScannerCodeAmura\src\dao\uDM.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 13:07:03.000.518,F:\estudos\Delphi\ScannerCodeAmura\src\dao\uDM.dfm=F:\estudos\Delphi\ScannerCodeAmura\Unit1.dfm</Transaction>
+    <Transaction>2026/04/02 13:07:03.000.518,F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas=F:\estudos\Delphi\ScannerCodeAmura\src\dao\uDM.pas</Transaction>
+    <Transaction>2026/04/02 13:07:03.000.518,F:\estudos\Delphi\ScannerCodeAmura\Unit1.dfm=F:\estudos\Delphi\ScannerCodeAmura\src\dao\uDM.dfm</Transaction>
     <Transaction>2026/04/02 15:45:28.000.386,F:\estudos\Delphi\ScannerCodeAmura\src\dao\uDM.pas=</Transaction>
     <Transaction>2026/04/02 15:53:03.000.294,=F:\estudos\Delphi\ScannerCodeAmura\src\model\resource\model.resource.interfaces.pas</Transaction>
     <Transaction>2026/04/02 15:53:29.000.805,=F:\estudos\Delphi\ScannerCodeAmura\src\model\resource\impl\model.resource.impl.configuration.pas</Transaction>
@@ -43,18 +43,34 @@
     <Transaction>2026/04/02 15:55:28.000.354,F:\estudos\Delphi\ScannerCodeAmura\src\model\resource\impl\model.resource.impl.configuration.pas=</Transaction>
     <Transaction>2026/04/02 15:55:52.000.745,=F:\estudos\Delphi\ScannerCodeAmura\src\model\dao\uDM.pas</Transaction>
     <Transaction>2026/04/02 16:21:45.000.243,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 16:22:38.000.349,F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas=F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.configuracao.pas</Transaction>
+    <Transaction>2026/04/02 16:22:38.000.349,F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.configuracao.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
     <Transaction>2026/04/02 16:35:11.000.087,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 16:35:29.000.133,F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas=F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.setor.pas</Transaction>
+    <Transaction>2026/04/02 16:35:29.000.133,F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.setor.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
     <Transaction>2026/04/02 16:39:44.000.572,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 16:39:56.000.299,F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas=F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.lista.pas</Transaction>
+    <Transaction>2026/04/02 16:39:56.000.299,F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.lista.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
     <Transaction>2026/04/02 16:41:56.000.145,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 16:42:14.000.911,F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas=F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.contagem_cab.pas</Transaction>
+    <Transaction>2026/04/02 16:42:14.000.911,F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.contagem_cab.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
     <Transaction>2026/04/02 16:44:39.000.690,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 16:44:53.000.916,F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas=F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.contagem_item.pas</Transaction>
-    <Transaction>2026/04/02 23:21:32.702,=C:\Desenvolvimento\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 23:22:38.855,C:\Desenvolvimento\Delphi\ScannerCodeAmura\src\views\pages\view.scannercode.pas=C:\Desenvolvimento\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
-    <Transaction>2026/04/02 23:22:38.855,C:\Desenvolvimento\Delphi\ScannerCodeAmura\src\views\pages\view.scannercode.fmx=C:\Desenvolvimento\Delphi\ScannerCodeAmura\Unit1.fmx</Transaction>
-  </Transactions>  <ActiveMobileDevice>   <NoProfile Android64="RXCW80A83SY"/>
-  </ActiveMobileDevice>
+    <Transaction>2026/04/02 16:44:53.000.916,F:\estudos\Delphi\ScannerCodeAmura\src\model\entity\model.contagem_item.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/02 23:21:32.000.702,=C:\Desenvolvimento\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/02 23:22:38.000.855,C:\Desenvolvimento\Delphi\ScannerCodeAmura\Unit1.fmx=C:\Desenvolvimento\Delphi\ScannerCodeAmura\src\views\pages\view.scannercode.fmx</Transaction>
+    <Transaction>2026/04/02 23:22:38.000.855,C:\Desenvolvimento\Delphi\ScannerCodeAmura\Unit1.pas=C:\Desenvolvimento\Delphi\ScannerCodeAmura\src\views\pages\view.scannercode.pas</Transaction>
+    <Transaction>2026/04/06 11:35:20.000.385,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/06 11:36:07.000.010,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\model.service.configuracao.interfaces.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/06 11:46:55.000.713,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/06 11:47:13.000.057,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\impl\model.service.configuracao.interfaces.impl.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/06 12:14:13.000.697,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\model.service.configuracao.interfaces.pas=</Transaction>
+    <Transaction>2026/04/06 12:14:17.000.572,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\impl\model.service.configuracao.interfaces.impl.pas=</Transaction>
+    <Transaction>2026/04/06 12:17:38.000.978,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/06 12:17:55.000.244,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\model.configuracao.service.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/06 17:02:26.000.403,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/06 17:03:21.000.778,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\model.setor.service.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/07 16:41:00.592,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/07 16:41:25.983,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\model.lista.service.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/07 17:03:24.873,=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+    <Transaction>2026/04/07 17:03:38.434,F:\estudos\Delphi\ScannerCodeAmura\src\model\service\model.contagem.service.pas=F:\estudos\Delphi\ScannerCodeAmura\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64=""/>
+	</ActiveMobileDevice>
 </BorlandProject>

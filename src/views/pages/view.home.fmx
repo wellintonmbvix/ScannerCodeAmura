@@ -30,12 +30,12 @@ object fHome: TfHome
         object rctHeader: TRectangle
           Align = Client
           Fill.Color = xFF600863
-          Margins.Left = 3.000000000000000000
-          Margins.Top = 3.000000000000000000
-          Margins.Right = 3.000000000000000000
-          Margins.Bottom = 3.000000000000000000
-          Size.Width = 374.000000000000000000
-          Size.Height = 75.000000000000000000
+          Margins.Left = 5.000000000000000000
+          Margins.Top = 5.000000000000000000
+          Margins.Right = 5.000000000000000000
+          Margins.Bottom = 5.000000000000000000
+          Size.Width = 370.000000000000000000
+          Size.Height = 71.000000000000000000
           Size.PlatformDefault = False
           Stroke.Kind = None
           object lbTitleHeader: TLabel
@@ -51,6 +51,13 @@ object fHome: TfHome
             Text = 'Scanner de Estoque'
             TabOrder = 0
           end
+          object ShadowEffect1: TShadowEffect
+            Distance = 2.000000000000000000
+            Direction = 90.000000000000000000
+            Softness = 0.100000001490116100
+            Opacity = 0.600000023841857900
+            ShadowColor = claBlack
+          end
         end
       end
       object lytFooter: TLayout
@@ -60,74 +67,98 @@ object fHome: TfHome
         Size.Height = 80.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 1
-        object sklbSessionFooter: TSkLabel
-          Align = Top
-          Margins.Left = 15.000000000000000000
-          Margins.Top = 5.000000000000000000
-          Position.X = 15.000000000000000000
-          Position.Y = 5.000000000000000000
-          Size.Width = 365.000000000000000000
-          Size.Height = 19.000000000000000000
+        object rctFooter: TRectangle
+          Align = Client
+          Fill.Color = xFF600863
+          Size.Width = 380.000000000000000000
+          Size.Height = 80.000000000000000000
           Size.PlatformDefault = False
-          StyledSettings = [Size, FontColor]
-          TextSettings.Font.Families = 'Segoe UI'
-          Words = <
-            item
-              Font.Weight = Bold
-              Name = 'Item 0'
-              StyledSettings = [Family, Size, FontColor]
-              Text = #218'ltima Sess'#227'o: '
-            end
-            item
-              Name = 'Item 1'
-              Text = '26/03/2026 14:57'
-            end>
-        end
-        object sklbSectorFooter: TSkLabel
-          Align = Top
-          Margins.Left = 15.000000000000000000
-          Margins.Top = 5.000000000000000000
-          Position.X = 15.000000000000000000
-          Position.Y = 29.000000000000000000
-          Size.Width = 365.000000000000000000
-          Size.Height = 19.000000000000000000
-          Size.PlatformDefault = False
-          StyledSettings = [Size, FontColor]
-          TextSettings.Font.Families = 'Segoe UI'
-          Words = <
-            item
-              Font.Weight = Bold
-              Name = 'Item 0'
-              StyledSettings = [Family, Size, FontColor]
-              Text = 'Setor: '
-            end
-            item
-              Name = 'Item 1'
-              Text = 'A1 - Vitrine'
-            end>
-        end
-        object sklbItemsReadFooter: TSkLabel
-          Align = Top
-          Margins.Left = 15.000000000000000000
-          Margins.Top = 5.000000000000000000
-          Position.X = 15.000000000000000000
-          Position.Y = 53.000000000000000000
-          Size.Width = 365.000000000000000000
-          Size.Height = 19.000000000000000000
-          Size.PlatformDefault = False
-          StyledSettings = [Size, FontColor]
-          TextSettings.Font.Families = 'Segoe UI'
-          Words = <
-            item
-              Font.Weight = Bold
-              Name = 'Item 0'
-              StyledSettings = [Family, Size, FontColor]
-              Text = 'Itens l'#237'dos: '
-            end
-            item
-              Name = 'Item 1'
-              Text = '163'
-            end>
+          Stroke.Kind = None
+          object sklbItemsReadFooter: TSkLabel
+            Align = Top
+            Margins.Left = 15.000000000000000000
+            Margins.Top = 5.000000000000000000
+            Position.X = 15.000000000000000000
+            Position.Y = 5.000000000000000000
+            Size.Width = 365.000000000000000000
+            Size.Height = 19.000000000000000000
+            Size.PlatformDefault = False
+            StyledSettings = [Size, FontColor]
+            TextSettings.Font.Families = 'Segoe UI'
+            Words = <
+              item
+                Font.Weight = Bold
+                FontColor = claWhite
+                Name = 'Item 0'
+                StyledSettings = [Family, Size]
+                Text = 'Itens l'#237'dos: '
+              end
+              item
+                FontColor = claWhite
+                Name = 'Item 1'
+                StyledSettings = [Family, Size, Style]
+                Text = '163'
+              end>
+          end
+          object sklbSectorFooter: TSkLabel
+            Align = Top
+            Margins.Left = 15.000000000000000000
+            Margins.Top = 5.000000000000000000
+            Position.X = 15.000000000000000000
+            Position.Y = 53.000000000000000000
+            Size.Width = 365.000000000000000000
+            Size.Height = 19.000000000000000000
+            Size.PlatformDefault = False
+            StyledSettings = [Size, FontColor]
+            TextSettings.Font.Families = 'Segoe UI'
+            Words = <
+              item
+                Font.Weight = Bold
+                FontColor = claWhite
+                Name = 'Item 0'
+                StyledSettings = [Family, Size]
+                Text = 'Setor: '
+              end
+              item
+                FontColor = claWhite
+                Name = 'Item 1'
+                StyledSettings = [Family, Size, Style]
+                Text = 'A1 - Vitrine'
+              end>
+          end
+          object sklbSessionFooter: TSkLabel
+            Align = Top
+            Margins.Left = 15.000000000000000000
+            Margins.Top = 5.000000000000000000
+            Position.X = 15.000000000000000000
+            Position.Y = 29.000000000000000000
+            Size.Width = 365.000000000000000000
+            Size.Height = 19.000000000000000000
+            Size.PlatformDefault = False
+            StyledSettings = [Size, FontColor]
+            TextSettings.Font.Families = 'Segoe UI'
+            Words = <
+              item
+                Font.Weight = Bold
+                FontColor = claWhite
+                Name = 'Item 0'
+                StyledSettings = [Family, Size]
+                Text = #218'ltima Sess'#227'o: '
+              end
+              item
+                FontColor = claWhite
+                Name = 'Item 1'
+                StyledSettings = [Family, Size, Style]
+                Text = '26/03/2026 14:57'
+              end>
+          end
+          object ShadowEffect2: TShadowEffect
+            Distance = 6.000000000000000000
+            Direction = 180.000000000000000000
+            Softness = 0.200000002980232200
+            Opacity = 0.600000023841857900
+            ShadowColor = claBlack
+          end
         end
       end
       object lytBody: TLayout

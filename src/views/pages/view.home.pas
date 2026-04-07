@@ -32,7 +32,8 @@ uses
   FMX.ListView.Appearances,
   FMX.ListView.Adapters.Base,
   FMX.ListView,
-  FMX.ListBox;
+  FMX.ListBox,
+  FMX.Effects;
 
 type
   TfHome = class(TForm, iRouter4DComponent)
@@ -63,6 +64,9 @@ type
     SkSvg1: TSkSvg;
     rectResourceConfig: TRectangle;
     sbtnResourceConfig: TSpeedButton;
+    ShadowEffect1: TShadowEffect;
+    rctFooter: TRectangle;
+    ShadowEffect2: TShadowEffect;
   private
     { Private declarations }
     var msgError: String;

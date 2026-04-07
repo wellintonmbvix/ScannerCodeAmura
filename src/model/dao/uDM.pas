@@ -57,6 +57,7 @@ implementation
 
 {$ENDREGION}
 
+
 procedure TDM.DataModuleCreate(Sender: TObject);
 var
   DatabasePath: string;
