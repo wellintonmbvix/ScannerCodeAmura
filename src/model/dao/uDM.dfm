@@ -6,6 +6,9 @@ object DM: TDM
     Params.Strings = (
       'LockingMode=Normal'
       'DriverID=SQLite')
+    FetchOptions.AssignedValues = [evRecordCountMode]
+    FetchOptions.RecordCountMode = cmTotal
+    TxOptions.AutoStop = False
     LoginPrompt = False
     Left = 80
     Top = 32
